@@ -14,8 +14,8 @@ author :
   name : Jason Ren
   email : rjyqdu@126.com
   github : rjywiki
-#  twitter : username
-#  feedburner : feedname
+  twitter : username
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
